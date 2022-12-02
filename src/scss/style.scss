@@ -18,6 +18,8 @@ body {
         background-size: 178px 116px;
         background-color: #ff55b8;
         background-position-y: 73.5vw;
+        background-position-x: center;
+
     }
     &__ttl{
         white-space: nowrap;
@@ -372,10 +374,11 @@ body {
             }
         }
         &__contents{
-            background: url('../img/bg.svg') repeat;
-            background-size: 178px 116px;
+            background-size: 24vw auto;
+
             background-color: #ff55b8;
-            background-position-y: 73.5vw;
+            background-position-y: 190vw;
+            background-position-x: center;
         }
 
         &__fv {
